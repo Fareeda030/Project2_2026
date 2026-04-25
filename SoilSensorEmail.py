@@ -17,7 +17,7 @@ SMTP_PORT=587
 
 DRY_LEVEL=1
 
-CHECK_HOURS=[8,12,16,20]
+CHECK_HOURS=[8,13,17,21]
 
 def send_mail(plant_status):
 	try:
